@@ -1,0 +1,6 @@
+.top-companies-scroll{
+  scroll-behavior: smooth;
+}
+.top-companies-scroll::-webkit-scrollbar{
+  height: 8px;
+}
